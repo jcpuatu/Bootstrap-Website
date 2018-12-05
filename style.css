@@ -1,36 +1,11 @@
-.navbar-brand { 
-  padding: 15px 15px; 
-  height: 50px; 
+.homepage{
+        background-image: url("img/banner1.png");
+        
+        
+      }
+element.style {
 }
 
-.op-narrow-banner .narrow-banner-0 .banner-column-text {
-    color: #FFF;
-}
-.banner-column-text {
-    width: 100%;
-    position: absolute;
-    height: 100%;
-    text-align: center;
-    color: #000000;
-    max-width: 1000px;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.detail {
-    font-size: 18px;
-}
-.banner-button {
-    border: 1px solid #FFF;
-    height: 40px;
-    line-height: 40px;
-    font-size: 14px;
-    margin-bottom: 11px;
-    margin-top: 7px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
-.narrow-banner {
-    background-image: 
+.text-content {
+	margin-left: 80px;
 }
