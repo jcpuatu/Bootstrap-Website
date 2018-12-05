@@ -17,6 +17,20 @@
     transform: translateX(-50%);
 }
 
-.narrow-banner{
-	background-image: url("img/grey-03.png);
+.detail {
+    font-size: 18px;
+}
+.banner-button {
+    border: 1px solid #FFF;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    margin-bottom: 11px;
+    margin-top: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.narrow-banner {
+    background-image: 
 }
